@@ -1,3 +1,2 @@
 # javaAcademyCourse
 
-#user @almyshliaev
